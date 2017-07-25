@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "5128d44b-f7cd-4b94-97b4-adecefd44167",
+            "Value": {
+                "id": "8029da4c-4caf-4447-af87-b1f6e4473430",
+                "resourcePath": "sprites\\sprSpencer\\sprSpencer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "525d429c-2566-4aff-af83-5907362fc76c",
             "Value": {
                 "id": "f8137034-210d-4a90-93e6-278673738e1c",
