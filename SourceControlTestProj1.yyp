@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "ecc84c01-d435-4f6b-8470-151c62a76239",
+            "Value": {
+                "id": "8c741268-aa42-41df-9eb4-fbcd8ee1ce9e",
+                "resourcePath": "sprites\\sprChris\\sprChris.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "e232fcfa-d3d8-4412-803c-8a692de7bdf2",
