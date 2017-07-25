@@ -237,6 +237,14 @@
                 "resourcePath": "views\\f44fade0-9dca-4b17-bb60-b75656f87283.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "f5b1d3dc-7f83-4cb8-a1df-b55c3b52fe34",
+            "Value": {
+                "id": "0d85cde8-bb21-4902-8194-f18b0a6857d1",
+                "resourcePath": "sprites\\sprThompson\\sprThompson.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
