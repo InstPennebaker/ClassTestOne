@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "38d46fea-4cd5-4b4a-ab76-160e3494025b",
+            "Value": {
+                "id": "83d135a9-2174-46d6-8fe9-3ef6c4deed71",
+                "resourcePath": "objects\\sprPennebakerTEst\\sprPennebakerTEst.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a31b98c-ccc9-4875-b871-99ff30095347",
             "Value": {
                 "id": "2ed40957-9772-435d-9fb9-8f71954e0e60",
