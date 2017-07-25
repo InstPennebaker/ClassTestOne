@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "525d429c-2566-4aff-af83-5907362fc76c",
+            "Value": {
+                "id": "f8137034-210d-4a90-93e6-278673738e1c",
+                "resourcePath": "sprites\\sprDavid\\sprDavid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "540ff5b4-423d-4c33-b692-97565b732fcb",
             "Value": {
                 "id": "dc930daf-23a0-47c5-a504-8eec34ba78b2",
