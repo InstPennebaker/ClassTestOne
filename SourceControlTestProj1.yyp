@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "bb3323fa-139f-43cc-b436-41423bdc961d",
+            "Value": {
+                "id": "5c939026-74ac-456c-b121-e209f4a4da43",
+                "resourcePath": "sprites\\sprPennebakerTest2\\sprPennebakerTest2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "330ce92d-c7d3-4013-9326-59a41c85f603",
